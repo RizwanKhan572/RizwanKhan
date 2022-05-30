@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@merk143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@merk143" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im__riso143/?hl=en" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="@merk143" height="55" width="55" /></a>
 <a href="https://twitter.com/@imrizwan143" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="@imrizwan143" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/rizwan khan" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="rizwan khan" height="50" width="50" /></a>
 </p>
