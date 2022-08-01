@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img  alt="Coding" width="45" src="https://c.tenor.com/RIPrRmkwX4cAAAAC/hi-njjsd.gif">, I'm Rizwan Khan</h1>
 <h3 align="center">Aspiring MERN Stack Developer</h3>
 <br>
- <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/806947/screenshots/4698193/drink_coffee-resize.gif"> 
+ <img align="right" alt="Coding" width="450" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-881.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merk7875&label=Profile%20views&color=0e75b6&style=flat" alt="merk7875" /> </p>
 
 - 🌱 I’m currently learning **react**                                                                  
