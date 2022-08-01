@@ -1,10 +1,10 @@
 <h1 align="center">Hi  <img  alt="Coding" width="45" src="https://c.tenor.com/RIPrRmkwX4cAAAAC/hi-njjsd.gif">, I'm Rizwan Khan</h1>
 <h3 align="center">Aspiring MERN Stack Developer</h3>
 <br>
- <img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/b0ed95ae283993c0fefc94bc2712ebc0fbc147d0c1c355743560d289e57e3e28/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f39666237373166623632316332396230613265616539343562356365656562332f74656e6f722e6769663f6974656d69643d3139303139313136"> 
+ <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/806947/screenshots/4698193/drink_coffee-resize.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merk7875&label=Profile%20views&color=0e75b6&style=flat" alt="merk7875" /> </p>
 
-- 🌱 I’m currently learning **AdvanceJavascript**                                                                  
+- 🌱 I’m currently learning **react**                                                                  
                                                                                    
 - 💬 Ask me about **javascript,advanceJavascript**
 
